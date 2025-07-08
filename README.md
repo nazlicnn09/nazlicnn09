@@ -20,7 +20,7 @@
 
 ## 🌐 Benimle iletişim kur:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/nazlıcan-arslan-4368382a6)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:nazlicanarslan@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:nazlicanarslan09@gmail.com)
 
 ---
 
