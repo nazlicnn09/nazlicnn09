@@ -9,7 +9,7 @@ Yani biz bu sitenin bize sunduğu apiyi bize özel api keyi kullanarak
 anahtar kelime araması popüler dizi listeleme ve 
 vizyondaki filmleri listeleme uygulaması yapcıaz
 
-bunun için öcenlikle https iteklerini yöneten request modülünü import edicez yani ben yaptığım projemde bir sitenin apisini 
+bunun için öncelikle https isteklerini yöneten request modülünü import edicez yani ben yaptığım projemde bir sitenin apisini 
 kullanıcaksam ömncelikle http isteği yapmak için request modülü kullanmam gerekir.
 """
 import requests
@@ -17,7 +17,7 @@ import requests
 class theMovieDb:
     def __init__(self):
         self.api_url="https://api.themoviedb.org/3"
-        self.api_key="deb51c6bedbc3e34353f190f690c3f18"
+        self.api_key="apikey"
 #bir fonksiyona parmetre koyduğun zaman sonra o fonskiyonu çağırdığında parametre ister.
 
     def getPopulars(self):
