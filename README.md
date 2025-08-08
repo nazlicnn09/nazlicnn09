@@ -1,5 +1,5 @@
 <h1 align="center">Selam 👋, ben Nazlıcan</h1>
-<h3 align="center">Karadeniz Teknik Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim</h3>
+<h3 align="center">Karadeniz Teknik Üniversitesi Yazılım Mühendisliği 4. sınıf öğrencisiyim</h3>
 
 <p align="center">
   💻 Görüntü işleme, yapay zekâ, web geliştirme ve mobil uygulamalar üzerine çalışıyorum.<br/>
